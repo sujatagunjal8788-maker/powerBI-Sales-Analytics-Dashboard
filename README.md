@@ -357,53 +357,5 @@ Sujata Gunjal
 Aspiring Data Analyst
 Skilled in Excel | SQL | Power BI | Python
 
-💬 Interview Explanation (Very Important 🔥)
 
-If interviewer asks:
-
-“Explain your Power BI project.”
-
-You can say:
-
-“I built an interactive Sales Performance Dashboard using Power BI. I performed data cleaning, created measures for Sales, Profit, Quantity and AOV, and designed interactive visuals using slicers and bookmarks. The dashboard helps analyze sales trends, customer contribution, shipping mode preference, and profit distribution across categories and states.”)
-🚀 How to Run the Project
-
-Download the .pbix file
-
-Open in Power BI Desktop
-
-Use slicers to explore data
-
-Click reset button to clear filters
-
-👩‍💻 About Me
-
-Sujata Gunjal
-Aspiring Data Analyst
-Skilled in Excel | SQL | Power BI | Python
-
-💬 Interview Explanation (Very Important 🔥)
-
-If interviewer asks:
-
-“Explain your Power BI project.”
-
-You can say:
-
-“I built an interactive Sales Performance Dashboard using Power BI. I performed data cleaning, created measures for Sales, Profit, Quantity and AOV, and designed interactive visuals using slicers and bookmarks. The dashboard helps analyze sales trends, customer contribution, shipping mode preference, and profit distribution across categories and states.”)
-🚀 How to Run the Project
-
-Download the .pbix file
-
-Open in Power BI Desktop
-
-Use slicers to explore data
-
-Click reset button to clear filters
-
-👩‍💻 About Me
-
-Sujata Gunjal
-Aspiring Data Analyst
-Skilled in Excel | SQL | Power BI | Python
 
